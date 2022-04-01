@@ -15,7 +15,7 @@ public class JavaApp {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        metodoGenerado("Clase Java Fundamentals_sesion.");
+        metodoGenerado("Clase Java Fundamentals_sesion");
         sumar(1,2,19);
     }
     
